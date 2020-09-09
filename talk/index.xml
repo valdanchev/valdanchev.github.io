@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <title>Recent &amp; Upcoming Talks | Valentin Danchev</title>
     <link>https://valdanchev.github.io/talk/</link>
       <atom:link href="https://valdanchev.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Valentin Danchev</copyright><lastBuildDate>Wed, 09 Sep 2020 21:54:41 +0100</lastBuildDate>
     <image>
       <url>https://valdanchev.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://valdanchev.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Evaluation of Clinical Trial Data Sharing Policy in Leading Medical Journals (Poster)</title>
+      <link>https://valdanchev.github.io/talk/data-sharing-rct/</link>
+      <pubDate>Wed, 09 Sep 2020 21:54:41 +0100</pubDate>
+      <guid>https://valdanchev.github.io/talk/data-sharing-rct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplex Social Media Networks: Addressing Vaping (Mis)information and Prevention</title>
+      <link>https://valdanchev.github.io/talk/prism/</link>
+      <pubDate>Fri, 06 Dec 2019 21:44:11 +0100</pubDate>
+      <guid>https://valdanchev.github.io/talk/prism/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

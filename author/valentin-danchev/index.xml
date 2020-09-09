@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Valentin Danchev | Academic</title>
+    <title>Valentin Danchev</title>
     <link>https://valdanchev.github.io/author/valentin-danchev/</link>
       <atom:link href="https://valdanchev.github.io/author/valentin-danchev/index.xml" rel="self" type="application/rss+xml" />
     <description>Valentin Danchev</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Valentin Danchev</copyright><lastBuildDate>Tue, 26 May 2020 13:37:42 +0100</lastBuildDate>
     <image>
       <url>https://valdanchev.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Valentin Danchev</title>
       <link>https://valdanchev.github.io/author/valentin-danchev/</link>
     </image>
+    
+    <item>
+      <title>Migration Networks: Applications of Network Analysis to Macroscale Migration Patterns</title>
+      <link>https://valdanchev.github.io/publication/migration-networks/</link>
+      <pubDate>Tue, 26 May 2020 13:37:42 +0100</pubDate>
+      <guid>https://valdanchev.github.io/publication/migration-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Clinical Trial Data Sharing Policy in Leading Medical Journals</title>
+      <link>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibrating the Scientific Ecosystem Through Meta-Research</title>
+      <link>https://valdanchev.github.io/publication/meta-research/</link>
+      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
+      <guid>https://valdanchev.github.io/publication/meta-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centralized scientific communities are less likely to generate replicable results</title>
+      <link>https://valdanchev.github.io/publication/centralized-communities/</link>
+      <pubDate>Tue, 02 Jul 2019 16:43:24 +0100</pubDate>
+      <guid>https://valdanchev.github.io/publication/centralized-communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neither global nor local: Heterogeneous connectivity in spatial network structures of world migration</title>
+      <link>https://valdanchev.github.io/publication/migration-connectivity/</link>
+      <pubDate>Tue, 01 May 2018 16:52:43 +0100</pubDate>
+      <guid>https://valdanchev.github.io/publication/migration-connectivity/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

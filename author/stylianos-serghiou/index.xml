@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stylianos Serghiou | Valentin Danchev</title>
+    <link>https://valdanchev.github.io/author/stylianos-serghiou/</link>
+      <atom:link href="https://valdanchev.github.io/author/stylianos-serghiou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stylianos Serghiou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Valentin Danchev</copyright><lastBuildDate>Sun, 01 Mar 2020 16:15:02 +0100</lastBuildDate>
+    <image>
+      <url>https://valdanchev.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stylianos Serghiou</title>
+      <link>https://valdanchev.github.io/author/stylianos-serghiou/</link>
+    </image>
+    
+    <item>
+      <title>Calibrating the Scientific Ecosystem Through Meta-Research</title>
+      <link>https://valdanchev.github.io/publication/meta-research/</link>
+      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
+      <guid>https://valdanchev.github.io/publication/meta-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
