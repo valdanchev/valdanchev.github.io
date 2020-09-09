@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>https://valdanchev.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
     <loc>https://valdanchev.github.io/post/</loc>
   </url>
   
@@ -36,6 +32,10 @@
   
   <url>
     <loc>https://valdanchev.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/author/valentin-danchev/</loc>
   </url>
   
 </urlset>
