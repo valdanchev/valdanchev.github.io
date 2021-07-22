@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Valentin Danchev</title>
+    <link>https://valdanchev.github.io/courses/</link>
+      <atom:link href="https://valdanchev.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://valdanchev.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Courses</title>
+      <link>https://valdanchev.github.io/courses/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible Data Science with Open Source Python Tools and Real-World Data</title>
+      <link>https://valdanchev.github.io/courses/reproducible/reproducible-data-science/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0100</pubDate>
+      <guid>https://valdanchev.github.io/courses/reproducible/reproducible-data-science/</guid>
+      <description>&lt;p&gt;This 
+&lt;a href=&#34;https://valdanchev.github.io/reproducible-data-science-python/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open textbook&lt;/a&gt; uses real-world social data sets related to the COVID-19 pandemic to provide an accessible introduction to open, reproducible, and ethical data analysis using hands-on Python coding, modern open-source computational tools, and data science techniques. Topics include open reproducible research workflows, data wrangling, exploratory data analysis, data visualisation, pattern discovery (e.g., clustering), prediction &amp;amp; machine learning, causal inference, and network analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

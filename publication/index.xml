@@ -5,7 +5,7 @@
     <link>https://valdanchev.github.io/publication/</link>
       <atom:link href="https://valdanchev.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Valentin Danchev</copyright><lastBuildDate>Tue, 26 May 2020 13:37:42 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright><lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://valdanchev.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Migration Networks: Applications of Network Analysis to Macroscale Migration Patterns</title>
-      <link>https://valdanchev.github.io/publication/migration-networks/</link>
-      <pubDate>Tue, 26 May 2020 13:37:42 +0100</pubDate>
-      <guid>https://valdanchev.github.io/publication/migration-networks/</guid>
+      <title>Evaluation of Data Sharing After Implementation of the International Committee of Medical Journal Editors Data Sharing Statement Requirement</title>
+      <link>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evaluation of Clinical Trial Data Sharing Policy in Leading Medical Journals</title>
-      <link>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</guid>
+      <title>Migration Networks: Applications of Network Analysis to Macroscale Migration Patterns</title>
+      <link>https://valdanchev.github.io/publication/migration-networks/</link>
+      <pubDate>Tue, 26 May 2020 13:37:42 +0100</pubDate>
+      <guid>https://valdanchev.github.io/publication/migration-networks/</guid>
       <description></description>
     </item>
     

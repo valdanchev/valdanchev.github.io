@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://valdanchev.github.io/courses/reproducible/reproducible-data-science/</loc>
+    <lastmod>2021-07-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/courses/</loc>
+    <lastmod>2021-07-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/</loc>
+    <lastmod>2021-07-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/publication-type/2/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/authors/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/author/john-borghi/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/author/john-p.a.-ioannidis/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/author/mike-baiocchi/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/publication_types/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/publication/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/author/valentin-danchev/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valdanchev.github.io/author/yan-min/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://valdanchev.github.io/talk/data-sharing-rct/</loc>
     <lastmod>2020-09-09T21:54:41+01:00</lastmod>
   </url>
@@ -13,17 +78,7 @@
   </url>
   
   <url>
-    <loc>https://valdanchev.github.io/</loc>
-    <lastmod>2020-09-09T21:54:41+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://valdanchev.github.io/publication-type/3/</loc>
-    <lastmod>2020-05-26T13:37:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/authors/</loc>
     <lastmod>2020-05-26T13:37:42+01:00</lastmod>
   </url>
   
@@ -35,51 +90,6 @@
   <url>
     <loc>https://valdanchev.github.io/publication/migration-networks/</loc>
     <lastmod>2020-05-26T13:37:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/publication_types/</loc>
-    <lastmod>2020-05-26T13:37:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/publication/</loc>
-    <lastmod>2020-05-26T13:37:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/author/valentin-danchev/</loc>
-    <lastmod>2020-05-26T13:37:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/publication/clinical-trial-data-sharing/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/author/john-borghi/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/author/john-p.a.-ioannidis/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/author/mike-baiocchi/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/author/yan-min/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valdanchev.github.io/publication-type/2/</loc>
-    <lastmod>2020-03-01T16:15:02+01:00</lastmod>
   </url>
   
   <url>
