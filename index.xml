@@ -78,5 +78,33 @@
       <description></description>
     </item>
     
+    <item>
+      <title>News</title>
+      <link>https://valdanchev.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://valdanchev.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;h3 id=&#34;2021&#34;&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;[7 Dec 2021]&lt;/strong&gt;   Our abstract &lt;em&gt;Evaluating the Prevalence of Health-Related Misinformation across Multiple Social-Media Platforms&lt;/em&gt; (with Hamid Nejadghorban, Victoria Stensland, Joshua Hodgkin) was accepted for oral presentation at the &lt;a href=&#34;https://britsoc.co.uk/events/key-bsa-events/bsa-annual-conference-2022-building-equality-and-justice-now/&#34;&gt;BSA Virtual Annual Conference 2022: Building Equality and Justice Now&lt;/a&gt;, 20–22 April 2022&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[7 Dec 2021]&lt;/strong&gt;   Our chapter with Mason A. Porter on &lt;em&gt;Migration networks: applications of network analysis to macroscale migration patterns&lt;/em&gt; is now published in McAuliffe, M.(Ed.) &lt;a href=&#34;https://www.e-elgar.com/shop/gbp/research-handbook-on-international-migration-and-digital-technology-9781839100604.html&#34;&gt;Research Handbook on International Migration and Digital Technology&lt;/a&gt;, Edward Elgar Publishing, 2021. An earlier preprint version of the chapter is available open access at &lt;a href=&#34;https://arxiv.org/abs/2002.10992&#34;&gt;arXiv:2002.10992&lt;/a&gt;. Data and computer code are available on &lt;a href=&#34;https://osf.io/dgr6x/&#34;&gt;OSF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[3 Dec 2021]&lt;/strong&gt;   I gave a lightning talk &lt;em&gt;Networked Marketplaces for Responsible Sharing of Research Data&lt;/em&gt; at the &lt;a href=&#34;https://www.aimosconference.co&#34;&gt;Association for Interdisciplinary Metaresearch and Open Science conference (aimos2021)&lt;/a&gt;, 30 November – 3 December 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11 Nov 2021]&lt;/strong&gt;   I was invited to give a talk at the &lt;a href=&#34;https://datasciences.utoronto.ca/event/2022-toronto-workshop-on-reproducibility/&#34;&gt;2022 Toronto Workshop on Reproducibility (2022 TWR)&lt;/a&gt; hosted by the Canadian Statistical Sciences Institute (CANSSI) Ontario and the Data Sciences Institute at the University of Toronto, 23–25 February, 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[28 Oct 2021]&lt;/strong&gt;   I organised and participated in a multidisciplinary workshop panel &lt;a href=&#34;https://pydata.org/global2021/schedule/presentation/130/transparent-responsible-and-trustworthy-data-science-workflows/&#34;&gt;Building Responsible Data Science Workflows: Transparency, Reproducibility, and Ethics by Design&lt;/a&gt; at the &lt;a href=&#34;https://pydata.org/global2021/&#34;&gt;PyData Global 2021 conference&lt;/a&gt;, 28–30 October 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[25 Oct 2021]&lt;/strong&gt;   I am a co-author on &lt;a href=&#34;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003844&#34;&gt;Naudet &lt;em&gt;et al.&lt;/em&gt; Medical journal requirements for clinical trial data sharing: Ripe for improvement&lt;/a&gt; published in PLOS Medicine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[3 Sep 2021]&lt;/strong&gt;   I am invited faculty at the &lt;a href=&#34;https://www.bitss.org/events/rt2virtual2021/&#34;&gt;Research Transparency and Reproducibility Training (RT2)&lt;/a&gt;, August 23–September 3, 2021, organised by the Berkeley Initiative for Transparency in the Social Sciences. With teaching assistant Hamid Nejadghorban (PhD candidate in Economics, University of Essex), we provided a hands-on tutorial on reproducible workflows with dynamic documents &amp;amp; Jupyter Notebook. Materials and computer code from the training and our session are publicly available on &lt;a href=&#34;https://osf.io/tdhck/&#34;&gt;OSF&lt;/a&gt; and &lt;a href=&#34;https://github.com/valdanchev/dynamic-documents-with-jupyter-notebook&#34;&gt;GitHub&lt;/a&gt; repositories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[16 Jun 2021]&lt;/strong&gt;   I gave a talk about my open learning resource &lt;a href=&#34;https://valdanchev.github.io/reproducible-data-science-python/intro.html&#34;&gt;Reproducible Data Science&lt;/a&gt; at the &lt;a href=&#34;https://data.berkeley.edu/academics/resources/data-science-education-resources/2021-national-workshop-data-science-education&#34;&gt;2021 National Workshop on Data Science Education&lt;/a&gt;, 14–18 June 2021, organised by UC Berkeley&amp;rsquo;s Division of Computing, Data Science, and Society.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[9 Jun 2021]&lt;/strong&gt;    My learning resource &lt;a href=&#34;https://valdanchev.github.io/reproducible-data-science-python/intro.html&#34;&gt;Reproducible Data Science with Open-Source Python Tools and Real-World Data&lt;/a&gt; is available open access under a CC BY-SA 4.0 license.&lt;/p&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
