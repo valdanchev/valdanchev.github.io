@@ -1,21 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sophia Crüwell | Valentin Danchev</title>
+    <title>Sophia Crüwell on Valentin Danchev</title>
     <link>https://valdanchev.github.io/author/sophia-cruwell/</link>
-      <atom:link href="https://valdanchev.github.io/author/sophia-cruwell/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sophia Crüwell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright><lastBuildDate>Sun, 01 Mar 2020 16:15:02 +0100</lastBuildDate>
-    <image>
-      <url>https://valdanchev.github.io/images/icon_hu5f325b3c85e20cf51b89df3475851291_11873_512x512_fill_lanczos_center_2.png</url>
-      <title>Sophia Crüwell</title>
-      <link>https://valdanchev.github.io/author/sophia-cruwell/</link>
-    </image>
-    
+    <description>Recent content in Sophia Crüwell on Valentin Danchev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Valentin Danchev</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 16:15:02 +0100</lastBuildDate><atom:link href="https://valdanchev.github.io/author/sophia-cruwell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calibrating the Scientific Ecosystem Through Meta-Research</title>
       <link>https://valdanchev.github.io/publication/meta-research/</link>
       <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
+      
       <guid>https://valdanchev.github.io/publication/meta-research/</guid>
       <description></description>
     </item>
