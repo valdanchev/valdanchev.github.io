@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Valentin Danchev</title>
+    <title>3 | Valentin Danchev</title>
     <link>https://valdanchev.github.io/publication-type/3/</link>
-    <description>Recent content in 3 on Valentin Danchev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2021 Valentin Danchev</copyright>
-    <lastBuildDate>Tue, 26 May 2020 13:37:42 +0100</lastBuildDate><atom:link href="https://valdanchev.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://valdanchev.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright><lastBuildDate>Tue, 26 May 2020 13:37:42 +0100</lastBuildDate>
+    <image>
+      <url>https://valdanchev.github.io/images/icon_hu5f325b3c85e20cf51b89df3475851291_11873_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://valdanchev.github.io/publication-type/3/</link>
+    </image>
+    
     <item>
       <title>Migration Networks: Applications of Network Analysis to Macroscale Migration Patterns</title>
       <link>https://valdanchev.github.io/publication/migration-networks/</link>
       <pubDate>Tue, 26 May 2020 13:37:42 +0100</pubDate>
-      
       <guid>https://valdanchev.github.io/publication/migration-networks/</guid>
       <description></description>
     </item>

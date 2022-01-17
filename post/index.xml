@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Valentin Danchev</title>
+    <title>News | Valentin Danchev</title>
     <link>https://valdanchev.github.io/post/</link>
-    <description>Recent content in News on Valentin Danchev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2021 Valentin Danchev</copyright><atom:link href="https://valdanchev.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://valdanchev.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright>
+    <image>
+      <url>https://valdanchev.github.io/images/icon_hu5f325b3c85e20cf51b89df3475851291_11873_512x512_fill_lanczos_center_2.png</url>
+      <title>News</title>
+      <link>https://valdanchev.github.io/post/</link>
+    </image>
+    
   </channel>
 </rss>

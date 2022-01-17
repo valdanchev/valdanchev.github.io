@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>James A Evans on Valentin Danchev</title>
+    <title>James A Evans | Valentin Danchev</title>
     <link>https://valdanchev.github.io/author/james-a-evans/</link>
-    <description>Recent content in James A Evans on Valentin Danchev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2021 Valentin Danchev</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 16:43:24 +0100</lastBuildDate><atom:link href="https://valdanchev.github.io/author/james-a-evans/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://valdanchev.github.io/author/james-a-evans/index.xml" rel="self" type="application/rss+xml" />
+    <description>James A Evans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright><lastBuildDate>Tue, 02 Jul 2019 16:43:24 +0100</lastBuildDate>
+    <image>
+      <url>https://valdanchev.github.io/images/icon_hu5f325b3c85e20cf51b89df3475851291_11873_512x512_fill_lanczos_center_2.png</url>
+      <title>James A Evans</title>
+      <link>https://valdanchev.github.io/author/james-a-evans/</link>
+    </image>
+    
     <item>
       <title>Centralized scientific communities are less likely to generate replicable results</title>
       <link>https://valdanchev.github.io/publication/centralized-communities/</link>
       <pubDate>Tue, 02 Jul 2019 16:43:24 +0100</pubDate>
-      
       <guid>https://valdanchev.github.io/publication/centralized-communities/</guid>
       <description></description>
     </item>

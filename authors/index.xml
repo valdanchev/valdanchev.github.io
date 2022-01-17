@@ -1,138 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Valentin Danchev</title>
+    <title>Authors | Valentin Danchev</title>
     <link>https://valdanchev.github.io/authors/</link>
-    <description>Recent content in Authors on Valentin Danchev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2021 Valentin Danchev</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valdanchev.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>John Borghi</title>
-      <link>https://valdanchev.github.io/author/john-borghi/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/john-borghi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John P.A. Ioannidis</title>
-      <link>https://valdanchev.github.io/author/john-p.a.-ioannidis/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/john-p.a.-ioannidis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Baiocchi</title>
-      <link>https://valdanchev.github.io/author/mike-baiocchi/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/mike-baiocchi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valentin Danchev</title>
-      <link>https://valdanchev.github.io/author/valentin-danchev/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/valentin-danchev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yan Min</title>
-      <link>https://valdanchev.github.io/author/yan-min/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/yan-min/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mason A. Porter</title>
-      <link>https://valdanchev.github.io/author/mason-a.-porter/</link>
-      <pubDate>Tue, 26 May 2020 13:37:42 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/mason-a.-porter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perrine Janiaud</title>
-      <link>https://valdanchev.github.io/author/perrine-janiaud/</link>
-      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/perrine-janiaud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sophia Crüwell</title>
-      <link>https://valdanchev.github.io/author/sophia-cruwell/</link>
-      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/sophia-cruwell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steven N. Goodman</title>
-      <link>https://valdanchev.github.io/author/steven-n.-goodman/</link>
-      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/steven-n.-goodman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stylianos Serghiou</title>
-      <link>https://valdanchev.github.io/author/stylianos-serghiou/</link>
-      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/stylianos-serghiou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tom E. Hardwicke</title>
-      <link>https://valdanchev.github.io/author/tom-e.-hardwicke/</link>
-      <pubDate>Sun, 01 Mar 2020 16:15:02 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/tom-e.-hardwicke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrey Rzhetsky</title>
-      <link>https://valdanchev.github.io/author/andrey-rzhetsky/</link>
-      <pubDate>Tue, 02 Jul 2019 16:43:24 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/andrey-rzhetsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James A Evans</title>
-      <link>https://valdanchev.github.io/author/james-a-evans/</link>
-      <pubDate>Tue, 02 Jul 2019 16:43:24 +0100</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/james-a-evans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valentin Danchev</title>
-      <link>https://valdanchev.github.io/author/valentin-danchev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://valdanchev.github.io/author/valentin-danchev/</guid>
-      <description>I am a Lecturer in Computational Social Science at the University of Essex and a Fellow of the Software Sustainability Institute. My background is interdisciplinary. Before joining Essex Sociology, I held postdoctoral positions at the Stanford University School of Medicine and the University of Chicago.</description>
-    </item>
+      <atom:link href="https://valdanchev.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Valentin Danchev</copyright><lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://valdanchev.github.io/images/icon_hu5f325b3c85e20cf51b89df3475851291_11873_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://valdanchev.github.io/authors/</link>
+    </image>
     
   </channel>
 </rss>
